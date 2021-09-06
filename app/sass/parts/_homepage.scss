@@ -5,12 +5,11 @@
     flex-direction: row;
     width: 100vw;
     height: 100vh;
-    color: $lightgreen;
+    color: $dark;
 }
 
 .two {
     background-color: $lightgreen;
-    color: $dark;
 }
 
 .three {
@@ -18,8 +17,7 @@
 }
 
 .four {
-    background-color: $darkgreen;
-    color: $dark;
+    background-color: $darkgreen; 
 }
 
 .five {

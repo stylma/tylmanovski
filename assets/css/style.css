@@ -31,12 +31,11 @@ body {
           flex-direction: row;
   width: 100vw;
   height: 100vh;
-  color: #f5fbef;
+  color: #242331;
 }
 
 .two {
   background-color: #f5fbef;
-  color: #242331;
 }
 
 .three {
@@ -45,7 +44,6 @@ body {
 
 .four {
   background-color: #92ad94;
-  color: #242331;
 }
 
 .five {
