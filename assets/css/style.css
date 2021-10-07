@@ -21,6 +21,9 @@ body {
 	padding: 0;
 	background-image: url('/Login_View.png');
 	color: #ffffff;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 /*# sourceMappingURL=style.css.map */
