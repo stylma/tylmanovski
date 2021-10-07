@@ -15,7 +15,12 @@ Use a better box model (opinionated).
     box-sizing: border-box;
 }
 
-*{margin: 0; padding: 0; border: 0; outline: 0;}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
 
 /**
 Use a more readable tab size (opinionated).
