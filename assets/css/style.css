@@ -29,6 +29,7 @@ body {
 @media screen and (max-width: 880px) {
 	body {
 		background-image: url('/Login_View_Mobile.png');
+		background-size: contain;
 	}
 }
 
