@@ -19,16 +19,16 @@ body {
 	line-height: 1.3;
 	margin: 0;
 	padding: 0;
-	background-image: url('/Login_View.png');
+	background-image: url('/assets/img/livechat-1260x710.png');
 	color: #ffffff;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 50%;
 }
 
 @media screen and (max-width: 880px) {
 	body {
-		background-image: url('/Login_view_mobile2.png');
+		background-image: url('/assets/img/livechat-1260x710.png');
 	}
 }
 
